@@ -10,15 +10,16 @@ const styles = StyleSheet.create({
         display:'flex',
         justifyContent:'center',
         alignItems:'center',
-        backgroundColor:'#00000025',
+        backgroundColor:'#1B4F72',
     },
     label: {
-        fontSize: 20,
+        fontSize: 22,
+        color: '#FFC300'
     },
     text:{
-        color: '#000',
-        fontWeight: '700',
-        fontSize: 16,
+        color: '#FFFFFF',
+        fontWeight: '500',
+        fontSize: 14,
     },
     backdrop: {
         flex: 1,
